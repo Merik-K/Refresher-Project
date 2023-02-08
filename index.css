@@ -3,3 +3,9 @@ html {
   background-repeat: none;
   background-size: cover;
 }
+.holder {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+}
